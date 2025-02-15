@@ -1,0 +1,13 @@
+{
+    "name": "Claudex",
+    "version": "1.0.0",
+    "description": "Enhanced Omniplex project with Claude.ai–inspired UI, API integration, and deployment readiness.",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "axios": "^0.27.2",
+        "express": "^4.18.2"
+    }
+}
